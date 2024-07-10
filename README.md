@@ -29,8 +29,8 @@ Random Forest is an ensemble method that builds multiple decision trees and merg
 After training and evaluating the models, the results are as follows:
 
 - Logistic Regression: Achieved an accuracy of 90.96% .
-Decision Tree: Achieved an accuracy of 84.18% .
-Random Forest: Achieved an accuracy of 92.65% .
+- Decision Tree: Achieved an accuracy of 84.18% .
+- Random Forest: Achieved an accuracy of 92.65% .
 
 ### Contributing
 I welcome all contributions! If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
